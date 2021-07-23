@@ -37,12 +37,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
   <artifactId>primefaces</artifactId>
   <version>7.0</version>
   </dependency>
-  
-  <dependency>
-  <groupId>org.primefaces</groupId>
-  <artifactId>primefaces</artifactId>
-  <version>7.0</version>
-  </dependency>
   </dependencies>
   
   <build>
